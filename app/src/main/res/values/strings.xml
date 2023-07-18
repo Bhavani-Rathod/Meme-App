@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meme App</string>
+    <string name="text">Text</string>
+    <string name="meme_app">Meme App</string>
+    <string name="memePhoto">memePhoto</string>
+    <string name="textview">TextView</string>
+</resources>
